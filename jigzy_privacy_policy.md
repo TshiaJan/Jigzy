@@ -41,5 +41,5 @@ Jigzy is suitable for all age groups and complies with the Children's Online Pri
 For any inquiries or feedback regarding this Privacy Policy, please reach out to:
 
 - **Developer:** Tshiamo Jantjie
-- **Email:** [tshiajan@gmail.com](mailto:tshiajan@gmail.com)
+- **Email:** [janaire.dev@gmail.com](mailto:janaire.dev@gmail.com)
 - **Hosted Policy Reference:** [https://tshiajan.github.io/jigzy-privacy/](https://tshiajan.github.io/jigzy-privacy/)
